@@ -1,5 +1,5 @@
 # OptNow
-
+## [Live Link](https://gifted-cowboy-hat-bat.cyclic.app/)
 This is the github repository of OptNow; know your health risk better platform, which we developed during the Optum Stratethon Season 4 event as our submission. 
 
 The problem statement for the event was concerning designing a product that can help identify subsets of geographic regions, ethnical groups, or other inhabitants that confront different health discrepancies and keep them out of the red zone. 
